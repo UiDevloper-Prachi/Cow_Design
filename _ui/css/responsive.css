@@ -1,0 +1,618 @@
+@media screen and (max-width: 1199px) {
+  .container {
+    width: 950px;
+  }
+  .banner_sec {
+    height: 427px;
+  }
+  .banner_text h1 {
+    font-size: 35px;
+    text-align: center;
+  }
+  .weneedright_section {
+    flex: 0 0 442px;
+  }
+  .weneed_imgleft {
+    flex: 0 0 248px;
+  }
+  .weneed_imgright {
+    flex: 0 0 207px;
+  }
+  .weneedcows_farms img {
+    max-width: 470px;
+  }
+  .breedright_content {
+    flex: 0 0 210px;
+    padding: 11px;
+    margin: 15px;
+  }
+  .breedleft_sec {
+    flex: 0 0 226px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .container {
+    width: 750px;
+  }
+  .menu ul li {
+    font-size: 13px;
+  }
+  .weneed_con {
+    padding-top: 49px;
+  }
+  .logo a {
+    flex: 0 0 156px;
+    max-width: 156px;
+  }
+  .header_bottom ul {
+    font-size: 12px;
+  }
+  .banner_text p {
+    font-size: 20px;
+    margin: 0 0 41px 0px;
+  }
+  .banner_btn button {
+    padding: 15px;
+  }
+
+  .banner_btn button {
+    font-size: 12px;
+  }
+  .weneedright_sectionupper h2 {
+    font-size: 28px;
+    margin: 0 0 27px 0;
+  }
+  .weneedright_section {
+    flex: 0 0 365px;
+    max-width: 365px;
+  }
+  .weneed_imgleft {
+    flex: 0 0 189px;
+    max-width: 189px;
+  }
+  .weneed_imgright {
+    flex: 0 0 143px;
+    max-width: 143px;
+  }
+
+  .weneedlist_items h4 {
+    font-size: 21px;
+  }
+  .weneedright_sectionupper p {
+    font-size: 14px;
+  }
+
+  .weneedcows_farms {
+    flex-direction: column;
+  }
+  .weneedcows_farms p {
+    text-align: center;
+    max-width: fit-content;
+  }
+  .weneedcows_farms a {
+    margin: 15px 0 16px 0;
+  }
+  .delivery_container h2 {
+    font-size: 40px;
+  }
+  .delivery_container a {
+    font-size: 17px;
+  }
+  .breedleft_sec {
+    flex: 0 0 175px;
+    max-width: 175px;
+  }
+  .breedleft_sec h2 {
+    font-size: 25px;
+    line-height: 35px;
+  }
+  .breedleft_sec p {
+    font-size: 14px;
+  }
+  .breedright_content {
+    flex: 0 0 164px;
+    max-width: 164px;
+  }
+  .breedright_content h4 {
+    font-size: 20px;
+  }
+  .breedright_content p {
+    font-size: 15px;
+  }
+  .footer-column {
+    margin: 0 10px 0 10px;
+  }
+  .banner_sec {
+    height: 340px;
+  }
+  .weneedcows_farms h2 {
+    font-size: 28px;
+    text-align: center;
+  }
+  .weneedcows_farms p {
+    font-size: 14px;
+    padding: 12px 0 10px 0;
+  }
+  .weneedcows_farms img {
+    max-width: 451px;
+  }
+  .explore_groundsurface {
+    margin-left: 10px;
+  }
+  .weneedcows_farms {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    max-width: 90%;
+    margin: auto;
+  }
+  .explore_sec {
+    padding: 29px 0;
+  }
+  .delivery_section {
+    padding-top: 46px;
+  }
+  section.breeds_section {
+    padding-top: 50px;
+  }
+  .fqs_sectio {
+    padding-top: 35px;
+  }
+  .explore_sec h2 {
+    margin-bottom: 53px;
+  }
+  .weneed_con {
+    padding: 86px 0 69px 0;
+  }
+  .footer-column ul {
+    line-height: 16px;
+  }
+  section.breeds_section {
+    padding: 61px 0;
+  }
+  .fqs_sectio {
+    background-color: #f0f8f7;
+    padding: 40px 0;
+  }
+  .trustsec_img {
+    padding: 38px 0 26px 0px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .container {
+    width: 100%;
+    padding: 0 15px;
+  }
+  .logo a {
+    flex: 0 0 90px;
+    max-width: 90px;
+    margin-left: 10px;
+  }
+  .header_con {
+    margin-bottom: 0px;
+  }
+  .bottom-logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  .header_top {
+    display: none;
+  }
+  .menu ul li {
+    margin-right: 9px;
+    margin: 20px 7px 0px 0px;
+    font-size: 9px;
+  }
+  .header_bottom ul {
+    font-size: 8px;
+  }
+  .banner_text h1 {
+    font-size: 28px;
+    margin: 0 0 20px 0;
+  }
+
+  .banner_text p {
+    font-size: 15px;
+    text-align: center;
+  }
+  .banner_btn a {
+    text-align: center;
+    font-size: 10px;
+  }
+
+  .banner_sec {
+    height: 195px;
+  }
+  .weneed_con {
+    padding: 35px 0 28px 0;
+  }
+  .weneed_content {
+    display: flex;
+    flex-direction: column;
+  }
+  .weneedleft_section {
+    margin-bottom: 20px;
+  }
+  .weneedright_sectionupper h2 {
+    font-size: 23px;
+    text-align: center;
+    margin-bottom: 27px;
+  }
+  .weneedright_sectionupper p {
+    font-size: 12px;
+    align-items: center;
+    text-align: center;
+  }
+  .weneedlist_items h4 {
+    font-size: 16px;
+  }
+  .weneedlist_items ul li {
+    font-size: 10px;
+  }
+  .weneedcows_farms img {
+    max-width: 350px;
+  }
+  .weneedcows_farms h2 {
+    font-size: 24px;
+  }
+  .weneedcows_farms a {
+    font-size: 14px;
+  }
+  .explore_sec h2 {
+    font-size: 30px;
+  }
+  .explore_img {
+    height: 224px;
+  }
+  .explore_groundsurface {
+    margin-left: 10px;
+  }
+  .explore_groundsurface h3 {
+    font-size: 17px;
+  }
+  .explore_groundsurface p {
+    font-size: 14px;
+  }
+
+  .trustsec_img {
+    padding: 38px 0 26px 0px;
+  }
+  .delivery_container h2 {
+    font-size: 30px;
+    max-width: 100%;
+    padding: 30px 0 0 0;
+    text-align: center;
+  }
+  .delivery_container p {
+    font-size: 17px;
+    padding: 25px 0 39px 0;
+    text-align: center;
+  }
+
+  .breed_con {
+    display: flex;
+    flex-direction: column;
+  }
+  .breedright_sec {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .breedleft_sec h2 {
+    font-size: 21px;
+    line-height: 35px;
+    align-items: center;
+    margin: 0 auto;
+    /* text-align: center; */
+  }
+  .breedright_content {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .breedleft_sec p {
+    font-size: 13px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .fqs_sectio h3 {
+    font-size: 28px;
+  }
+  .accordion-item {
+    font-size: 13px;
+  }
+  .footer-column h3 {
+    font-size: 15px;
+  }
+  .footer-column ul li a {
+    font-size: 12px;
+  }
+  .footer-column ul {
+    line-height: 13px;
+  }
+  .delivery_container a {
+    font-size: 17px;
+    margin: 0;
+  }
+  .delivery_container .hello {
+    display: flex;
+    justify-content: center;
+  }
+  .delivery_container {
+    height: 300px;
+  }
+  .banner_btn {
+    display: flex;
+    justify-content: center;
+  }
+  .banner_btn a {
+    margin: 0;
+  }
+  .breedleft_sec {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .weneedlist_items {
+    margin-top: 29px;
+  }
+  .footer-content {
+    flex-wrap: wrap;
+  }
+
+  .header_bottom ul.active {
+    display: block;
+    transition: all 1s ease;
+    width: 100%;
+  }
+  .menu ul li {
+    margin-right: 5px;
+    font-size: 6px;
+    display: flex;
+    align-items: center;
+    width: 60px;
+  }
+  .header_bottom ul li {
+    padding: 10px;
+    border-bottom: 2px solid rgb(209, 203, 203);
+    margin: 0px;
+    font-size: 15px;
+  }
+  .header_bottom ul li a {
+    font-size: 12px;
+  }
+  .header_bottom ul li a:hover {
+    color: #7f7f84;
+  }
+
+  .header_bottom ul {
+    /* font-size: 8px; */
+    display: none;
+  }
+  .menu_icon {
+    text-align: right;
+    margin: 10px 10px 0 0;
+    display: block;
+  }
+
+  .menu ul li {
+    margin-right: 5px;
+    font-size: 6px;
+    width: 52px;
+  }
+  .header_con {
+    display: flex;
+    justify-content: center;
+  }
+  .menu ul {
+    display: none;
+  }
+  .header_bottom ul.active {
+    display: block;
+    transition: all 1s ease;
+    width: 100%;
+    position: absolute;
+    background-color: #fff;
+    top: 46px;
+  }
+  .menu_icon {
+    margin: 14px 11px 0 0;
+  }
+  .header_bottom {
+    position: relative;
+  }
+  .menu_icon.active .fa-bars::before {
+    content: "\f00d";
+  }
+  .weneed_imgleft {
+    flex: 0 0 199px;
+    max-width: 199px;
+  }
+  .weneed_imgright {
+    flex: 0 0 149px;
+    max-width: 149px;
+  }
+  .footer-content {
+    flex-wrap: nowrap;
+    flex-direction: column;
+  }
+
+  .footer-icon {
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+  }
+  .footer-icon .accordion-icon {
+    display: block;
+  }
+  .fa-chevron-down:before {
+    content: "\f078";
+  }
+  .accordion-content {
+    border: none;
+  }
+}
+
+@media screen and (max-width: 376px) {
+  .container {
+    width: 100%;
+  }
+
+  .banner_text h1 {
+    font-size: 22px;
+  }
+  .banner_text p {
+    font-size: 11px;
+    text-align: center;
+    margin-bottom: 23px;
+  }
+  .banner_sec {
+    height: 159px;
+  }
+  .weneed_imgleft {
+    flex: 0 0 161px;
+    max-width: 161px;
+  }
+  .weneed_imgright {
+    flex: 0 0 111px;
+    max-width: 111px;
+  }
+  .weneedcows_farms img {
+    max-width: 292px;
+  }
+  .weneedcows_farms h2 {
+    font-size: 20px;
+  }
+  .explore_sec h2 {
+    font-size: 28px;
+  }
+  .explore_img {
+    height: 304px;
+  }
+  .delivery_container h2 {
+    font-size: 24px;
+  }
+  .delivery_container p {
+    font-size: 15px;
+  }
+  .delivery_container a {
+    font-size: 13px;
+  }
+  .breedright_content h4 {
+    font-size: 18px;
+  }
+  .breedright_content p {
+    font-size: 14px;
+  }
+  .fqs_sectio h3 {
+    font-size: 24px;
+  }
+  .accordion {
+    margin: 15px auto;
+  }
+  .menu ul li {
+    margin-right: 5px;
+    font-size: 6px;
+    width: 52px;
+  }
+  .menu_icon.active .fa-bars::before {
+    content: "\f00d";
+  }
+
+  .header_bottom {
+    margin-bottom: 20px;
+  }
+  .menu ul {
+    display: none;
+    position: absolute;
+    top: 60px;
+    right: 0;
+    background-color: white;
+  }
+  .header_con {
+    display: flex;
+    justify-content: center;
+  }
+  .header_bottom {
+    margin-bottom: 20px;
+    background-color: white;
+  }
+  .menu_icon {
+    text-align: right;
+    margin: 10px 10px 0 0;
+    display: block;
+  }
+  .header_bottom ul.active {
+    display: block;
+    transition: all 1s ease;
+    width: 100%;
+    position: absolute;
+    background-color: #fff;
+    top: 46px;
+  }
+  .header_bottom {
+    position: relative;
+  }
+  .footer-column {
+    margin: 10px 10px 0px 10px;
+  }
+  section.breeds_section {
+    padding: 21px 0;
+  }
+  .accordion-content {
+    display: none;
+    padding: 10px 0;
+    border-top: 1px solid #ddd;
+  }
+
+  .accordion-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    padding: 15px 10px;
+    border-bottom: 1px solid #ccc;
+    transition: 0.3s;
+  }
+
+  .accordion-header:hover {
+    background-color: #f9f9f9;
+  }
+
+  .accordion-icon {
+    transition: transform 0.5s ease-in-out;
+  }
+
+  /* Rotate icon when active */
+  .accordion-item.active .accordion-icon {
+    transform: rotate(180deg);
+  }
+
+  /* footer-accordian */
+
+  .copyright {
+    font-size: 12px;
+  }
+
+  .footer-icon {
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    margin-bottom: 20px;
+  }
+  .footer-icon .accordion-icon {
+    display: block;
+  }
+  .fa-chevron-down:before {
+    content: "\f078";
+  }
+  .footer-column h3 {
+    margin-bottom: 0px;
+  }
+  .footer-column.open .accordion-icon {
+    transform: rotate(180deg);
+  }
+}
